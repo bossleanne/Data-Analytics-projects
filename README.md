@@ -1,5 +1,5 @@
-# this repo documents my uni-projects
-Folders Tree:\
+# a repo documents my uni-projects
+Folder tree:\
 -master \
 --apluslab \
 --perfume-recommender \
