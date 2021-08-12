@@ -1,8 +1,7 @@
 # a repo documents my uni-projects
 Folder tree:\
 -master \
---apluslab \
---perfume-recommender \
+-perfume-recommender \
 \
 `apluslab` is a Search Engine Optimization practice where I boosted my website to the top ranking on the first page of Google in three weeks.
 
